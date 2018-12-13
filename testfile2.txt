@@ -1,2 +1,0 @@
-this is testfile2.txt - initial text
-line added in github
